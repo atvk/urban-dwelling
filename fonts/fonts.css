@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'LatoWeb';
+  src: url('./Lato-Regular.eot'); /* IE9 Compat Modes */
+  src: url('./Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./Lato-Regular.woff2') format('woff2'), /* Modern Browsers */
+       url('./Lato-Regular.woff') format('woff'), /* Modern Browsers */
+       url('./Lato-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src:  local('Roboto'), url('https://roboto-webfont.googlecode.com/files/Roboto-Regular-webfont.woff') format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Korataki';
+  src: url('./KoratakiBk-Regular.otf'); 
+  font-style: normal;
+}
