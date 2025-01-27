@@ -5,13 +5,10 @@
 }
 
 body {
-  display: grid;
-  grid-template-rows: repeat(3, min-content);
-  align-items: center;
   overflow: auto;
   scroll-behavior: smooth;
   width: 100%;
-  min-height: 100dvh;
+  height: 100%;
   margin: 0 auto;
   font-family: 'LatoWeb';
 }
